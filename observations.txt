@@ -1,0 +1,3 @@
+1) Only Capomulin and Ramincane correlated with tumor volume reduction, whereas all other drugs in the experiment did not.
+2) Capomulin and Ramincane also had higher survival rates compared to the other drugs.
+3) Finally, Capomulin and Ramincane had lower metastatic response >>> it's clear that these 2 are the winners. Further analysis required to further understand how these 2 drugs distinguish from each other.
